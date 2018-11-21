@@ -1,0 +1,6 @@
+Name=Fight Fuu
+Width=1024
+Height=768
+Fullscreen=FALSE
+Frequency=44100
+ChunkSize=1024

@@ -1,0 +1,16 @@
+﻿  PlayState.cpp
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\serverplayer.h(14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\player.h(16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\player.h(17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\serverplayer.h(14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\player.h(16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\player.h(17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\player.cpp(125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\uni\5100 networking & tools\handmade\handmadelite - client\handmade\player.cpp(210): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  9 of 1227 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Handmade.vcxproj -> D:\Uni\5100 Networking & Tools\Handmade\HandmadeLite - Client\Release\Handmade.exe
